@@ -7395,6 +7395,9 @@ a.text-dark:hover, a.text-dark:focus {
 /*
   Global css classes
 */
+html {
+  scroll-behavior: smooth; }
+
 body {
   background-image: url(../assets/site_background.png);
   background-size: cover;

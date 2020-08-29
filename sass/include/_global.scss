@@ -1,6 +1,9 @@
 /*
   Global css classes
 */
+html{
+  scroll-behavior: smooth;
+}
 body{
   background-image:url(../assets/site_background.png);
   background-size: cover;
